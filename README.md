@@ -60,9 +60,19 @@ Not a generic manager — leads through expertise, architecture ownership, deep 
 
 ## Key Technologies and Domains
 
-TOGAF, data-centric architecture, microservices, BPM, BPMN, UML, ArchiMate, C4, machine learning, AI, Big Data, Kubernetes, cloud technologies, blockchain, Ethereum, Solidity, Web3, DeFi, tokenomics, Java, JavaScript, Node.js, Python, REST, AWS, PMP.
+TOGAF, data-centric architecture, microservices, BPM, BPMN, UML, ArchiMate, C4, machine learning, AI, Big Data, Kubernetes, cloud technologies, blockchain, Ethereum, Solidity, Web3, DeFi, tokenomics, Java, JavaScript, Node.js, Python, REST, AWS, ML, AI, MLOps, LLM, PMP.
 
 ## Work Experience
+
+## DXFund.net (DXfund.eth)
+
+**06/2020 — now**
+
+**CTO**
+
+Leading technology and infrastructure for a private systematic trading research lab operating proprietary strategies on shareholder portfolios. Responsible for architecture and development of research, backtesting, data processing, ML experimentation, deployment, monitoring, and live execution infrastructure.
+
+Key focus areas include strategy automation, historical market data pipelines, feature engineering, model evaluation, signal validation, trading system reliability, execution workflows, infrastructure security, and production operations. The platform supports controlled research-to-production delivery, with clear separation between experimental research, validated strategies, ML-based signals, and live portfolio operations.
 
 ## Consulting
 
