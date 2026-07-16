@@ -4,9 +4,8 @@ chekriy@gmail.com
 
 Remote / Global
 
-Client testimonials: https://youtu.be/_jLgw_bmj-Q
-
-Free BPMN course: https://www.youtube.com/watch?v=u6KAOHaTWqE
+Client testimonials: [video testimonials](https://youtu.be/_jLgw_bmj-Q)  
+Free BPMN course: [BPMN course](https://youtu.be/u6KAOHaTWqE)  
 
 ## CTO / Solution Architect | FinTech | Web3 | Systems Design
 
